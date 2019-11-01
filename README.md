@@ -23,7 +23,7 @@ Reproducible micromagnetics is an organisation where:
 
 ## Binder
 
-Jupyter notebooks hosted in this repository can be used in the cloud via Binder. This does not require you to have anything installed and no files will be created on your machine. To access Binder, use this [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ubermag/repmag/master?filepath=ipynb%2Findex.ipynb).
+Jupyter notebooks hosted in this repository can be used in the cloud via Binder. This does not require you to have anything installed and no files will be created on your machine. To access Binder, use this [link](https://mybinder.org/v2/gh/ubermag/repmag/master?filepath=ipynb%2Findex.ipynb).
 
 ## Support
 
