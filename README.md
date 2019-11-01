@@ -9,7 +9,7 @@ Marijan Beg<sup>1,2</sup>, Ryan A. Pepper<sup>2</sup>, Thomas Kluyver<sup>1</sup
 | Build | [![Build Status](https://travis-ci.org/ubermag/oommfc.svg?branch=master)](https://travis-ci.org/ubermag/oommfc) |
 |       | [![Build status](https://ci.appveyor.com/api/projects/status/dsbae0ntj4coa9hl?svg=true)](https://ci.appveyor.com/project/marijanbeg/oommfc) |
 | Documentation | [![Documentation Status](https://readthedocs.org/projects/oommfc/badge/?version=latest)](https://oommfc.readthedocs.io/en/latest/?badge=latest) |
-| Binder | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marijanbeg/repmag/master?filepath=ipynb%2Findex.ipynb) |
+| Binder | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ubermag/repmag/master?filepath=ipynb%2Findex.ipynb) |
 | Platforms | [![Platforms](https://anaconda.org/conda-forge/oommfc/badges/platforms.svg)](https://anaconda.org/conda-forge/oommfc) |
 | License | [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) |
 
@@ -23,7 +23,7 @@ Reproducible micromagnetics is an organisation where:
 
 ## Binder
 
-Jupyter notebooks hosted in this repository can be used in the cloud via Binder. This does not require you to have anything installed and no files will be created on your machine. To access Binder, use this [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marijanbeg/repmag/master?filepath=ipynb%2Findex.ipynb).
+Jupyter notebooks hosted in this repository can be used in the cloud via Binder. This does not require you to have anything installed and no files will be created on your machine. To access Binder, use this [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ubermag/repmag/master?filepath=ipynb%2Findex.ipynb).
 
 ## Support
 
