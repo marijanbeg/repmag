@@ -1,12 +1,12 @@
 # Reproducible micromagetics
-Marijan Beg<sup>1,2</sup>, Ryan A. Pepper<sup>2</sup>, Thomas Kluyver<sup>1</sup>, and Hans Fangohr<sup>1,2</sup>
+Marijan Beg<sup>1,2</sup> and Hans Fangohr<sup>1,2</sup>
 
 <sup>1</sup> *European XFEL GmbH, Holzkoppel 4, 22869 Schenefeld, Germany*  
 <sup>2</sup> *Faculty of Engineering and the Environment, University of Southampton, Southampton SO17 1BJ, United Kingdom*  
 
 | Description | Badge |
 | --- | --- |
-| Build | [![Build Status](https://travis-ci.org/ubermag/oommfc.svg?branch=master)](https://travis-ci.org/ubermag/oommfc) |
+| Build | [![Build Status](https://travis-ci.org/reproducible-micromagnetics/example.svg?branch=master)](https://travis-ci.org/reproducible-micromagnetics/example) |
 |       | [![Build status](https://ci.appveyor.com/api/projects/status/dsbae0ntj4coa9hl?svg=true)](https://ci.appveyor.com/project/marijanbeg/oommfc) |
 | Documentation | [![Documentation Status](https://readthedocs.org/projects/oommfc/badge/?version=latest)](https://oommfc.readthedocs.io/en/latest/?badge=latest) |
 | Binder | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ubermag/repmag/master?filepath=ipynb%2Findex.ipynb) |
