@@ -1,4 +1,4 @@
-name: oommfc-environment
+name: ubermag-environment
 channels:
   - conda-forge
 dependencies:
