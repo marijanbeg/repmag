@@ -15,7 +15,7 @@ install:
   - "conda create -q -n test-environment python=%PYTHON_VERSION%"
   - activate test-environment
   - conda install --channel conda-forge oommf
-  - python -m pip install --upgrade pip pytest nbval
+  - python -m pip install --upgrade pip pytest nbval ubermag
 
 test_script:
   - python -m pytest --nbval-lax ipynb\
