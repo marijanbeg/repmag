@@ -7,10 +7,9 @@ Marijan Beg<sup>1,2</sup> and Hans Fangohr<sup>1,2</sup>
 | Description | Badge |
 | --- | --- |
 | Build | [![Build Status](https://travis-ci.org/reproducible-micromagnetics/example.svg?branch=master)](https://travis-ci.org/reproducible-micromagnetics/example) |
-|       | [![Build status](https://ci.appveyor.com/api/projects/status/dsbae0ntj4coa9hl?svg=true)](https://ci.appveyor.com/project/marijanbeg/oommfc) |
+|       | [![Build status](https://ci.appveyor.com/api/projects/status/o5g5ui1eb6n883g3?svg=true)](https://ci.appveyor.com/project/marijanbeg/example) |
 | Documentation | [![Documentation Status](https://readthedocs.org/projects/oommfc/badge/?version=latest)](https://oommfc.readthedocs.io/en/latest/?badge=latest) |
-| Binder | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ubermag/repmag/master?filepath=ipynb%2Findex.ipynb) |
-| Platforms | [![Platforms](https://anaconda.org/conda-forge/oommfc/badges/platforms.svg)](https://anaconda.org/conda-forge/oommfc) |
+| Binder | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/reproducible-micromagnetics/example/master) |
 | License | [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) |
 
 ## About
