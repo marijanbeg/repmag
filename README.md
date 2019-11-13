@@ -1,4 +1,4 @@
-# Reproducible micromagetics
+# Reproducible micromagetics example
 Marijan Beg<sup>1,2</sup> and Hans Fangohr<sup>1,2</sup>
 
 <sup>1</sup> *European XFEL GmbH, Holzkoppel 4, 22869 Schenefeld, Germany*  
@@ -6,7 +6,7 @@ Marijan Beg<sup>1,2</sup> and Hans Fangohr<sup>1,2</sup>
 
 | Description | Badge |
 | --- | --- |
-| Binder | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/reproducible-micromagnetics/example/master) |
+| Binder | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/reproducible-micromagnetics/example/master?filepath=ipynb%2Findex.ipynb) |
 | License | [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) |
 
 ## About
@@ -17,9 +17,21 @@ Reproducible micromagnetics is an organisation where:
 
 - All notebooks hosted in this organisation can be run in the cloud and the results reproduced by anybody
 
+## How to use this repository
+
+In order to use this repository as a template for reproducing the results from a publication, please follow the following steps:
+
+1. Please clone this repository
+2. Add the Ubermag notebooks to the `ipynb/` directory
+3. Change the list of notebooks in `ipynb/index.ipynb`
+4. If your notebooks require any other packages to be installed, which are not part of Ubermag, please add them to `environment.yml`
+5. Change the LICENSE file if required
+6. Push to a new GitHub repository and modify the URLs in `README.md`
+7. Change the `README.md` file
+
 ## Binder
 
-Jupyter notebooks hosted in this repository can be used in the cloud via Binder. This does not require you to have anything installed and no files will be created on your machine. To access Binder, use this [link](https://mybinder.org/v2/gh/ubermag/repmag/master?filepath=ipynb%2Findex.ipynb).
+Jupyter notebooks hosted in this repository can be used in the cloud via Binder. This does not require you to have anything installed and no files will be created on your machine. To access Binder, use this [link](https://mybinder.org/v2/gh/reproducible-micromagnetics/example/master?filepath=ipynb%2Findex.ipynb).
 
 ## Support
 
@@ -31,12 +43,10 @@ Licensed under the BSD 3-Clause "New" or "Revised" License. For details, please 
 
 ## How to cite
 
-If you use this package in your research, please cite it as:
+Please cite it as:
 
-1. M. Beg, R. A. Pepper, and H. Fangohr. User interfaces for computational science: A domain specific language for OOMMF embedded in Python. [AIP Advances, 7, 56025](http://aip.scitation.org/doi/10.1063/1.4977225) (2017).
-
-2. DOI will be available soon
+1. Add your paper here
 
 ## Acknowledgements
 
-Developed as a part of [OpenDreamKit](http://opendreamkit.org/) – Horizon 2020 European Research Infrastructure project (676541).
+Developed as a part of [OpenDreamKit](http://opendreamkit.org/) – Horizon 2020 European Research Infrastructure project (676541). Add another grants here if necessary.
