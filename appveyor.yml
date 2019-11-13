@@ -18,6 +18,4 @@ install:
   - python -m pip install --upgrade pip pytest nbval
 
 test_script:
-  - python -c "import oommfc as oc; import sys; sys.exit(oc.test())"
-  - python -m pytest --nbval-lax docs\ipynb\
-  - python -m pytest --doctest-modules --ignore=oommfc\tests oommfc
+  - python -m pytest --nbval-lax ipynb\
