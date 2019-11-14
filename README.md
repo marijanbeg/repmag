@@ -24,7 +24,7 @@ In order to use this repository as a template for reproducing the results from a
 1. Please clone this repository
 2. Add the Ubermag notebooks to the `ipynb/` directory
 3. Change the list of notebooks in `ipynb/index.ipynb`
-4. If your notebooks require any other packages to be installed, which are not part of Ubermag, please add them to `environment.yml`
+4. If your notebooks require any other packages to be installed, which are not part of Ubermag, please add them to `environment.yml`. In order to make sure your work is reproducible in the future, please fix the package versions in `environment.yml`.
 5. Change the LICENSE file if required
 6. Push to a new GitHub repository and modify the URLs in `README.md`
 7. Change the `README.md` file
