@@ -6,7 +6,7 @@ Marijan Beg<sup>1,2</sup> and Hans Fangohr<sup>1,2</sup>
 
 | Description | Badge |
 | --- | --- |
-| Binder | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/reproducible-micromagnetics/example/master?filepath=ipynb%2Findex.ipynb) |
+| Binder | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/reproducible-micromagnetics/example/master?filepath=index.ipynb) |
 | License | [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) |
 
 ## About
@@ -31,7 +31,7 @@ In order to use this repository as a template for reproducing the results from a
 
 ## Binder
 
-Jupyter notebooks hosted in this repository can be used in the cloud via Binder. This does not require you to have anything installed and no files will be created on your machine. To access Binder, use this [link](https://mybinder.org/v2/gh/reproducible-micromagnetics/example/master?filepath=ipynb%2Findex.ipynb).
+Jupyter notebooks hosted in this repository can be used in the cloud via Binder. This does not require you to have anything installed and no files will be created on your machine. To access Binder, use this [link](https://mybinder.org/v2/gh/reproducible-micromagnetics/example/master?filepath=index.ipynb).
 
 ## Support
 
