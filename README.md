@@ -29,6 +29,14 @@ In order to use this repository as a template for reproducing the results from a
 6. Push to a new GitHub repository and modify the URLs in `README.md`
 7. Change the `README.md` file
 
+## Reproducibility guidelines
+
+There are several guidelines to keep in mind when publising your data/computing scripts:
+
+1. The repository should contain all the data and computing scripts as well as the data analysis and visualisation code. Ideally, notebooks should reproduce all images in the publication.
+2. In order to make sure that the notebooks can be run in the future, the versions of packages should be specified in `environment.yml`.
+3. Very often papers deal with large simulations or they explore large parameter spaces. This makes them difficult to reproduce, because the simulation time is too long for them to be run in the cloud and inside Jupyter notebook. The recommendation in this case is to have a reproducibility script which provides a minimalistic example or a simulation at one parameter space point.
+
 ## Binder
 
 Jupyter notebooks hosted in this repository can be used in the cloud via Binder. This does not require you to have anything installed and no files will be created on your machine. To access Binder, use this [link](https://mybinder.org/v2/gh/reproducible-micromagnetics/example/master?filepath=index.ipynb).
