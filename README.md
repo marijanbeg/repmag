@@ -28,10 +28,9 @@ To create additional reproducible micromagnetic notebooks, you can follow these 
 3. Change the list of notebooks in `index.ipynb`
 4. If your notebooks require any other packages to be installed, which are not part of Ubermag, please add them to `environment.yml`. In order to make sure your work is reproducible in the future, please fix the package versions in `environment.yml`.
 5. Change the LICENSE file if required
-6. Push to a new GitHub repository and modify the URLs in `README.md`
-7. Change the `README.md` file
-
-TODO: How to get new notebooks integrated to the reproducible micomagnetics organisation?
+6. Change the `README.md` file
+7. Raise an issue in [ubermag/help](https://github.com/ubermag/help) repository, asking for a repository in `reproducible-micromagnetics` organisation to be created and write access granted.
+8. Push to a new GitHub repository and modify the URLs in `README.md`
 
 ## Reproducibility guidelines
 
